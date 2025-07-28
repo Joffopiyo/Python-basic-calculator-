@@ -4,6 +4,7 @@ def basic_calculator():
     based on user input.
     """
     print("Welcome to the Basic Calculator!")
+
     try:
         # Get the first number from the user
         num1_str = input("Enter the first number: ")
